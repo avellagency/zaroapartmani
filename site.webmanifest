@@ -1,0 +1,16 @@
+{
+ "name": "ZARO Apartments",
+ "short_name": "ZARO",
+ "lang": "mk",
+ "start_url": "/zaroapartmani/",
+ "display": "browser",
+ "background_color": "#FAF7F1",
+ "theme_color": "#FAF7F1",
+ "icons": [
+  {
+   "src": "img/50.jpg",
+   "sizes": "1024x683",
+   "type": "image/jpeg"
+  }
+ ]
+}

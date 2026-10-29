@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avellagency.github.io/zaroapartmani/sitemap.xml
